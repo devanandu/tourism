@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">tourism</string>
+    <string name="title_activity_userpage">userpage</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string-array name="places">
+        <item>thrissur</item>
+        <item>guruvayoor</item>
+        <item>athirapilly</item>
+        <item>snehatheeram</item>
+        <item>angamaly</item>
+        <item>irinjalakuda</item>
+    </string-array>
+</resources>
